@@ -1,3 +1,7 @@
+stolen from https://github.com/lrntplc/ecb-host
+for working code go to his very well designed and well thought out board.
+the point of forking is to extract as much useful code as possible for use in my own chessboard which is powered by a raspberry pi rather than an edison
+
 
 # Foldable, Intel Edison powered, chess board project
 
